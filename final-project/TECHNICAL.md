@@ -94,3 +94,6 @@ Local Caching: Implement a local SQLite database to store previously searched me
 Interaction Checker: Add a feature to compare the "Active Ingredients" of multiple entered drugs to warn the user about potential duplications.
 
 GUI Version: Transition the CLI into a simple desktop application using Tkinter or PyQt for non-technical users.
+
+### Author
+Samarth Goradia
